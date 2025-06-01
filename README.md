@@ -1,14 +1,10 @@
-# flutter_project_template
-[![flutter_project_template](https://nokycucwgzweensacwfy.supabase.co/functions/v1/get_project_badge?projectId=149)](https://nokycucwgzweensacwfy.supabase.co/functions/v1/get_project_url?projectId=149)
+# flutter_test_task
 
-📖 Template for flutter projects using solid_lints, CI for tests and analysis.
+Цей проет це невеличне тестове завдання яке я перетворили на міні навчальну гру, яка дозволяє вивчати як утворюється первний колір. Наше око здатне сприймати тільки 3 кольри, але якщо їх змішувати у різних пропорціях, ми отрмаємо 16777216 відтінків. (Тут би пояснити чому ттаке число) 
 
-- Uses latest stable flutter
-- Repo name as your project name
-- Organization from your profile email address or default
+Дякую команді Solid Software за таку чудову ідею 
 
 # Usage
-1. Press "Use this template" on the menu.
-2. Fill Github form with your new repo name and press "Create repository from template"
-3. Wait for it to be created and set up action is complete. In a couple of minutes, you'll see the flutter project created in your repo once Github Actions are complete.
-4. Clone and code.
+1. Install Flutter
+2. Запустии проет
+3. Дослліджуй кольори
