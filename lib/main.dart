@@ -7,10 +7,7 @@ void main() {
   runApp(
     ChangeNotifierProvider(
       create: (_) => ColorController(),
-      child: const MaterialApp(
-        title: 'Colors Learning App',
-        home: HomePage(),
-      ),
+      child: const MaterialApp(title: 'Colors Learning App', home: HomePage()),
     ),
   );
 }

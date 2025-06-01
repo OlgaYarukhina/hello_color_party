@@ -18,7 +18,7 @@ class HomePage extends StatelessWidget {
 
         return Scaffold(
           body: ColoredBox(
-            key:  const Key('background_container'),
+            key: const Key('background_container'),
             color: backgroundColor,
             child: GestureDetector(
               onTap: controller.changeColor,

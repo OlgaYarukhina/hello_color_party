@@ -1,10 +1,21 @@
-# flutter_test_task
+# Flutter Test Task 
 
-Цей проет це невеличне тестове завдання яке я перетворили на міні навчальну гру, яка дозволяє вивчати як утворюється первний колір. Наше око здатне сприймати тільки 3 кольри, але якщо їх змішувати у різних пропорціях, ми отрмаємо 16777216 відтінків. (Тут би пояснити чому ттаке число) 
+This project started as a small test assignment, which I turned into a mini educational game. It helps users explore how a specific color is formed by combining primary colors — red, green, and blue. 
 
-Дякую команді Solid Software за таку чудову ідею 
+Thanks to the Solid Software team for such a great idea!
 
-# Usage
-1. Install Flutter
-2. Запустии проет
-3. Дослліджуй кольори
+## Features
+- Tap the screen to generate a random background color.
+- Long press to view the RGB percentages of the current color in a dialog.
+
+## Requirements
+- Flutter SDK 
+- Dart 
+- iOS Simulator, Android Emulator, or a physical device
+- IDE: Android Studio or Visual Studio Code
+
+## Usage
+1. Install Flutter: [flutter.dev](https://flutter.dev)
+2. Clone this repository 
+3. Install dependencies
+3. Connect an iOS/Android device or start a simulator/emulator, then run the app

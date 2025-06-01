@@ -14,8 +14,8 @@ class ColorComposition {
 
   /// Converts the color percentages to a map of strings.
   Map<String, String> toMap({int decimalPlaces = 0}) => {
-      'red': red.toStringAsFixed(decimalPlaces),
-      'green': green.toStringAsFixed(decimalPlaces),
-      'blue': blue.toStringAsFixed(decimalPlaces),
+    'red': red.toStringAsFixed(decimalPlaces),
+    'green': green.toStringAsFixed(decimalPlaces),
+    'blue': blue.toStringAsFixed(decimalPlaces),
   };
 }
